@@ -1,4 +1,3 @@
-
 from time import sleep
 
 n = 4  # int(input("Number of disks: ")) # number of disks
